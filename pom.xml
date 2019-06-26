@@ -6,7 +6,11 @@
 
     <groupId>com.tong</groupId>
     <artifactId>spring-cloud-common</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>spring-cloud-util</module>
+    </modules>
 
     <name>spring-cloud-common</name>
     <description>saas spring cloud common project</description>
